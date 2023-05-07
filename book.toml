@@ -1,0 +1,14 @@
+[book]
+authors = ["thy1037"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "record"
+
+[build]
+build-dir = "docs"
+
+[output.html]
+git-repository-url = "https://github.com/thy1037/record"
+git-repository-icon = "fa-github"
+
